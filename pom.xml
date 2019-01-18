@@ -29,6 +29,13 @@
       <artifactId>amqp-client</artifactId>
       <version>4.9.2</version>
     </dependency>
+
+    <!-- spring集成rabbit -->
+    <dependency>
+      <groupId>org.springframework.amqp</groupId>
+      <artifactId>spring-rabbit</artifactId>
+      <version>1.6.5.RELEASE</version>
+    </dependency>
   </dependencies>
 
   <build>
